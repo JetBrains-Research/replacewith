@@ -1,3 +1,7 @@
+### Status: Archived
+
+This repository was used to prepare and document a proposal. The proposal has been finalized, and the repository is no longer active.
+
 # `ReplaceWith` inspection specification
 
 * **Type**: TODO
